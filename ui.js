@@ -1,4 +1,5 @@
 let profile=document.querySelector('#profile');
+//let repo=document.querySelector('#repo');
 
 class UI {
     constructor(){

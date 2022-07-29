@@ -16,6 +16,7 @@ searchBtn.addEventListener('click',(e)=>{
                 ui.clearAlert()
                 ui.showProfile(data);
             }
+        
         })
     }else{
         ui.clearProfile();
